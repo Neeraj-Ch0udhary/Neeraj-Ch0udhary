@@ -1,19 +1,30 @@
 <div align="center">
 
-<h1>नमस्ते, I'm Neeraj Choudhary 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Neeraj+Choudhary+%F0%9F%91%8B;AI+%2F+ML+Engineer;Full-Stack+Builder;PyPI+Publisher" alt="Typing SVG" />
 
-<p><strong>AI/ML Engineer · Full-Stack Builder · PyPI Publisher</strong></p>
+<p><strong>Building AI apps that solve real problems</strong></p>
 
-<p><em>B.Tech CSE (AI & ML) · DBS Global University, Dehradun</em></p>
-
-<br/>
-
-[![Agrow Live](https://img.shields.io/badge/🌾_Agrow-Live_App-22c55e?style=flat-square)](https://agrow-app.vercel.app)
-[![PyPI](https://img.shields.io/badge/PyPI-neeraj--llmguard-3b82f6?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/neeraj-llmguard)
-[![GitHub followers](https://img.shields.io/github/followers/Neeraj-Ch0udhary?style=flat-square&color=6e40c9)](https://github.com/Neeraj-Ch0udhary)
-![Profile views](https://komarev.com/ghpvc/?username=Neeraj-Ch0udhary&style=flat-square&color=6e40c9)
+<p>
+<a href="https://agrow-app.vercel.app"><img src="https://img.shields.io/badge/🌾 Agrow-Live-22c55e?style=for-the-badge" /></a>
+<a href="https://pypi.org/project/neeraj-llmguard"><img src="https://img.shields.io/badge/PyPI-neeraj--llmguard-3b82f6?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+<a href="https://github.com/Neeraj-Ch0udhary"><img src="https://img.shields.io/github/followers/Neeraj-Ch0udhary?style=for-the-badge&color=6e40c9&label=Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=Neeraj-Ch0udhary&style=for-the-badge&color=6e40c9" />
+</p>
 
 </div>
+
+---
+
+## ⚡ About Me
+
+```yaml
+name       : Neeraj Choudhary
+education  : B.Tech CSE (AI & ML) — DBS Global University, Dehradun
+location   : Rewari, Haryana, India
+focus      : AI/ML · Mobile Apps · Open Source
+published  : neeraj-llmguard on PyPI
+status     : Open to internships & collaborations
+```
 
 ---
 
@@ -23,26 +34,18 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 [Agrow](https://agrow-app.vercel.app)
-AI farming assistant for Indian farmers.
-- Crop disease detection via **Groq Llama 4 Scout Vision**
-- Live market prices from **Agmarknet API**
-- Built with **React Native · Supabase · Gemini**
+### 🌾 [Agrow](https://agrow-app.vercel.app) &nbsp; ![Live](https://img.shields.io/badge/-LIVE-22c55e?style=flat-square)
+AI farming assistant for Indian farmers — crop disease detection via **Groq Llama 4 Scout Vision**, live mandi prices via **Agmarknet API**.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61dafb?style=flat-square&logo=react&logoColor=black)
+`React Native` `Supabase` `Groq` `Gemini` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [PromptShield](https://github.com/Neeraj-Ch0udhary/promptshield)
-Open-source LLM security middleware — published on PyPI.
-- Prompt injection firewall
-- Hallucination blocker + agent memory layer
-- Custom **HuggingFace** model
+### 🛡️ [PromptShield](https://github.com/Neeraj-Ch0udhary/promptshield) &nbsp; ![PyPI](https://img.shields.io/badge/-PyPI-f0883e?style=flat-square)
+Open-source LLM security middleware — prompt injection firewall, hallucination blocker, agent memory layer with a custom HuggingFace model.
 
-![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)
-[![PyPI](https://img.shields.io/badge/-pip_install_neeraj--llmguard-f0883e?style=flat-square)](https://pypi.org/project/neeraj-llmguard)
+`Python` `FastAPI` `HuggingFace` `PyPI`
 
 </td>
 </tr>
@@ -50,25 +53,17 @@ Open-source LLM security middleware — published on PyPI.
 <td width="50%" valign="top">
 
 ### 🏙️ [SmartShehar](https://github.com/Neeraj-Ch0udhary/civicfix)
-Civic issue reporting app for Indian cities.
-- City official dashboard + upvote system
-- AI issue categorization
-- Built with **React Native · Expo SDK 54 · Flask**
+Civic issue reporting app — city official dashboard, upvote system & AI-powered issue categorization for Indian cities.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo)
+`React Native` `Expo SDK 54` `Flask` `SQLite` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 [UrbanPulse](https://github.com/Neeraj-Ch0udhary/smartshehar-admin)
-Smart city simulation platform.
-- Traffic · waste · GIS visualization for Delhi NCR
-- 3D building models with **Three.js + MapLibre**
-- Civil internship deliverable
+Smart city simulation — real-time traffic, waste & GIS visualization for Delhi NCR with 3D building models.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/-Three.js-000?style=flat-square&logo=three.js)
+`Three.js` `MapLibre` `D3.js` `JavaScript`
 
 </td>
 </tr>
@@ -78,33 +73,59 @@ Smart city simulation platform.
 
 ## 🧰 Tech Stack
 
-```
-Languages    →  Python  TypeScript  JavaScript  SQL
-AI / ML      →  Groq  Llama 4  Gemini  HuggingFace  LangChain  OpenCV
-Mobile/Web   →  React Native  Expo  React  Flask  Node.js
-Data/Cloud   →  Supabase  PostgreSQL  SQLite  Docker  GitHub Actions
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js)
+
+</div>
 
 ---
 
-## 📦 Published on PyPI
+## 📦 Open Source — Published on PyPI
+
+<div align="center">
 
 ```bash
 pip install neeraj-llmguard
 ```
 
-> Prompt injection detection · Hallucination scoring · Agent memory layer · Custom HuggingFace model
+</div>
+
+> 🔒 **Prompt injection detection** &nbsp;·&nbsp; 🧠 **Hallucination scoring** &nbsp;·&nbsp; 💾 **Agent memory layer** &nbsp;·&nbsp; 🤗 **Custom HuggingFace model**
 
 ---
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj-Ch0udhary&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Neeraj-Ch0udhary&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Ch0udhary&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Ch0udhary&layout=compact&theme=github_dark&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Neeraj-Ch0udhary&theme=github-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Neeraj-Ch0udhary&theme=darkhub&no-frame=true&margin-w=10&column=6)
 
 </div>
 
@@ -112,8 +133,11 @@ pip install neeraj-llmguard
 
 <div align="center">
 
-*Open to internships and interesting collaborations*
+### 💬 Let's build something together
 
-**📍 Rewari, Haryana, India**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neeraj-choudhary-70b142408)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeraj89303@gmail.com)
+
+*📍 Rewari, Haryana, India*
 
 </div>
