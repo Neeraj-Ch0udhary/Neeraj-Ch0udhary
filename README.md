@@ -4,7 +4,7 @@
 
 **AI/ML Engineer · Full-Stack Builder · Open Source Contributor**
 
-*B.Tech CSE (AI & ML) · DBS Global University, Dehradun · HCL Tech Partner*
+*B.Tech CSE (AI & ML) · DBS Global University, Dehradun*
 
 [![Portfolio](https://img.shields.io/badge/Agrow-Live_App-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://agrow-app.vercel.app)
 [![PyPI](https://img.shields.io/badge/PyPI-neeraj--llmguard-3b82f6?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/neeraj-llmguard)
