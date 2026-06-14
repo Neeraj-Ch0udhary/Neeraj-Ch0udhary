@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Neeraj+Choudhary+%F0%9F%91%8B;AI+%2F+ML+Engineer;Full-Stack+Builder;PyPI+Publisher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Neeraj+Choudhary+%F0%9F%91%8B;AI+%2F+ML+Engineer;Full-Stack+Mobile+Builder;Published+on+PyPI" alt="Typing SVG" />
 
 <p><strong>Building AI apps that solve real problems</strong></p>
 
@@ -120,14 +120,6 @@ pip install neeraj-llmguard
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Neeraj-Ch0udhary&theme=darkhub&no-frame=true&margin-w=10&column=6)
-
-</div>
 
 ---
 
