@@ -18,12 +18,12 @@
 ## ⚡ About Me
 
 ```yaml
-name       : Neeraj Choudhary
-education  : B.Tech CSE (AI & ML) — DBS Global University, Dehradun
-location   : Rewari, Haryana, India
-focus      : AI/ML · Mobile Apps · Open Source
-published  : neeraj-llmguard on PyPI
-status     : Open to internships & collaborations
+Name       : Neeraj Choudhary
+Education  : B.Tech CSE (AI & ML) — DBS Global University, Dehradun
+Location   : Rewari, Haryana, India
+Focus      : AI/ML · Mobile Apps · Open Source
+Published  : neeraj-llmguard on PyPI
+Status     : Open to internships & collaborations
 ```
 
 ---
